@@ -1,0 +1,15 @@
+ModBus.c:17:5:CteateSampleData	24	static
+ModBus.c:74:5:makeErrorReturn	24	static
+ModBus.c:87:5:ReturnCopy	24	static
+ModBus.c:98:5:makeReturnData	40	static
+ModBus.c:118:5:makeReturnDataByte	40	static
+ModBus.c:136:5:MbusReadCoils	64	static
+ModBus.c:164:5:MbusReadInputs	64	static
+ModBus.c:191:5:MbusReadHoldingRegisters	32	static
+ModBus.c:212:5:MbusReadInputRegisters	32	static
+ModBus.c:235:5:MbusWriteSingleCoil	32	static
+ModBus.c:260:5:MbusWriteSingleRegister	32	static
+ModBus.c:285:5:MbusWriteMultipleCoils	24	static
+ModBus.c:301:10:GetModBusWord	24	static
+ModBus.c:309:5:MbusWriteMultipleRegisters	48	static
+ModBus.c:360:5:ParseModeBusData	40	static

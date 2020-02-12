@@ -1,0 +1,8 @@
+usartApp.c:16:1:__io_putchar	16	static
+usartApp.c:86:6:SendBufByUsart	24	static
+usartApp.c:89:6:SendUsartData	16	static
+usartApp.c:93:6:SendBufByCan	48	static
+usartApp.c:128:5:SendDataToSlaveByCan	32	static
+usartApp.c:144:5:SaveCanFrmaeToBuf	32	static
+usartApp.c:154:6:CanMsgProc	24	static
+usartApp.c:229:6:ParseUsartModBusData	32	static

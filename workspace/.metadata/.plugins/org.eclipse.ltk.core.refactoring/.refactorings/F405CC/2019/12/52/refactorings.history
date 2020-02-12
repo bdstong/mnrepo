@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;F405CC/UserApps/Src/AllTypes.c&apos; to &apos;taskApp.c&apos;" description="Rename resource &apos;AllTypes.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="UserApps/Src/AllTypes.c" name="taskApp.c" stamp="1577193293108" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;F405CC/UserApps/Inc/allTypes.h&apos; to &apos;taskApp.h&apos;" description="Rename resource &apos;allTypes.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="UserApps/Inc/allTypes.h" name="taskApp.h" stamp="1577193312541" updateReferences="true"/>
+</session>

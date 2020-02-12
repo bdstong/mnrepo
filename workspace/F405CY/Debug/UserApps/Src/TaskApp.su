@@ -1,0 +1,9 @@
+TaskApp.c:60:6:Get_ChipID	4	static
+TaskApp.c:67:9:getChipidCRC	16	static
+TaskApp.c:94:6:init_led	40	static
+TaskApp.c:122:6:InitMyApp	8	static
+TaskApp.c:216:6:StartDefaultTask	16	static
+TaskApp.c:279:6:calc_avg	32	static
+TaskApp.c:295:6:StartAdcTask	32	static
+TaskApp.c:377:6:StartUsart1Task	16	static
+TaskApp.c:503:6:StartCan1Task	64	static

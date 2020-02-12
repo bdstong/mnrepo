@@ -1,0 +1,5 @@
+MotorTest.c:8:10:GetExchangeWord	24	static
+MotorTest.c:15:6:ProcModBusDJCmd	32	static
+MotorTest.c:38:6:ProcKZRunCmdBuf	40	static
+MotorTest.c:85:6:ProcModBusPidCmd	56	static
+MotorTest.c:132:6:StopMotor	16	static

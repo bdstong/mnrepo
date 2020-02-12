@@ -1,0 +1,4 @@
+dsp.c:18:6:q15Sin	64	static
+dsp.c:39:10:power	40	static
+dsp.c:51:6:calc_fft_q15	48	static
+dsp.c:77:6:calc_fft	48	static

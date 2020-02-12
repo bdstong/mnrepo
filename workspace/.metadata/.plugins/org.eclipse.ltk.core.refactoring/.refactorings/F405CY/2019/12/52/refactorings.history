@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;F405CY/DSP_Lib&apos; to &apos;DspLib&apos;" description="Rename resource &apos;DSP_Lib&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DSP_Lib" name="DspLib" stamp="1577492756033" updateReferences="true"/>
+</session>

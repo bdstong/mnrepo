@@ -1,0 +1,9 @@
+canApp.c:27:19:CAN_Transmit	56	static
+canApp.c:46:19:CAN1_Transmit	56	static
+canApp.c:59:19:CanSendData	56	static
+canApp.c:79:19:CanSendRemote	56	static
+canApp.c:98:19:CanSendRemoteExd	56	static
+canApp.c:112:19:CanSendDataExd	56	static
+canApp.c:144:6:CAN1_Filter_Init_StdID	56	static
+canApp.c:169:6:CAN1_Filter_Init_ExdID	56	static
+canApp.c:195:6:CAN1_Filter_Init_All_In	48	static

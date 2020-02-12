@@ -1,0 +1,6 @@
+parameters.c:216:19:writeAT24C16	48	static
+parameters.c:255:19:readAT24C16	48	static
+parameters.c:295:6:Load_Default_Parameters	16	static
+parameters.c:303:6:Write_All_Parameters	16	static
+parameters.c:323:6:Read_All_Parameters	16	static
+parameters.c:349:6:test_24	584	static

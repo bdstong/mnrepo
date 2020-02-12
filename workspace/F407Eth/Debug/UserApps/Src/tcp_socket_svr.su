@@ -1,0 +1,3 @@
+tcp_socket_svr.c:24:6:psd	16	static
+tcp_socket_svr.c:32:6:StartServerTask	176	static
+tcp_socket_svr.c:166:6:tcp_socket_svr_init	4	static

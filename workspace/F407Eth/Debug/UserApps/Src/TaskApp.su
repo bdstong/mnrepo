@@ -1,0 +1,6 @@
+TaskApp.c:12:1:__io_putchar	16	static
+TaskApp.c:18:6:Get_ChipID	4	static
+TaskApp.c:24:9:getChipidCRC	16	static
+TaskApp.c:52:6:InitMyApp	8	static
+TaskApp.c:116:6:StartEthTask	40	static
+TaskApp.c:259:6:StartUsart1Task	16	static

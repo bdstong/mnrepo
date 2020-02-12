@@ -1,0 +1,4 @@
+esp8266.c:19:6:ESP_Send	16	static
+esp8266.c:24:5:esp8266_Cmd	32	static
+esp8266.c:39:5:esp8266_initAP	48	static
+esp8266.c:82:5:esp8266_Data	24	static

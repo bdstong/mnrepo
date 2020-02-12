@@ -1,0 +1,10 @@
+21:06:11 **** Incremental Build of configuration Debug for project F405CY ****
+make -j4 all 
+arm-none-eabi-size   F405CY.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 139456	     24	  38688	 178168	  2b7f8	F405CY.elf
+Finished building: default.size.stdout
+ 
+
+21:06:17 Build Finished. 0 errors, 0 warnings. (took 5s.873ms)
+

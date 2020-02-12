@@ -1,0 +1,10 @@
+14:03:32 **** Incremental Build of configuration Debug for project F405SRD ****
+make -j2 all 
+arm-none-eabi-size   F405SRD.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30736	     24	  21920	  52680	   cdc8	F405SRD.elf
+Finished building: default.size.stdout
+ 
+
+14:03:33 Build Finished. 0 errors, 0 warnings. (took 827ms)
+

@@ -1,0 +1,12 @@
+IO_App.c:23:10:read_sw_sta	16	static
+IO_App.c:34:10:read_ki_sta	16	static
+IO_App.c:63:10:GetKoutCmd	16	static
+IO_App.c:73:6:read_KinOutSw	8	static
+IO_App.c:79:6:calc_pinlv	16	static
+IO_App.c:91:9:get_y	32	static
+IO_App.c:152:6:SetVout	16	static
+IO_App.c:158:6:Out_PWM_Proc	16	static
+IO_App.c:222:6:InitOut	16	static
+IO_App.c:247:6:Out_Delay_Proc	16	static
+IO_App.c:281:6:ProcDJCmd	40	static
+IO_App.c:308:6:ProcKout	8	static

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="../UserApps/Inc"/>
+	<item key="LastUsedHeaderTemplate" value="Default C header template"/>
+	<item key="LastUsedSourceTemplate" value=""/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="0"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="769"/>
+		<item key="DIALOG_Y_ORIGIN" value="202"/>
+		<item key="DIALOG_WIDTH" value="398"/>
+		<item key="DIALOG_HEIGHT" value="490"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="914"/>
+		<item key="size.height" value="180"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="CRenameRefactoringInputPage">
+	</section>
+	<section name="NewClassWizardPage">
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="definePUTCHAR_PROTOTYPE"/>
+			<item value="read_KinOutSw"/>
+			<item value="KoutStatus"/>
+			<item value="ESP_Status_Flag"/>
+			<item value="M1_NORMAL_CMD_CHN"/>
+			<item value="DMATransferComplete"/>
+			<item value="ProcDJCmd"/>
+			<item value="DATA_OF_MASTER"/>
+			<item value="file__index_html"/>
+		</list>
+	</section>
+</section>
